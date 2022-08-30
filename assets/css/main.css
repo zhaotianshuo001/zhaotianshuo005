@@ -277,7 +277,7 @@ input, select, textarea {
 			}
 
 				.container.medium {
-					width: 75%;
+					width: 100%;
 				}
 
 		}
@@ -2037,7 +2037,7 @@ input, select, textarea {
 
 	#nav {
 		background-color: #282828;
-		overflow: scroll;
+		overflow: visible;
 		text-align: center;
 		position: fixed;
 		left: 0;
