@@ -2037,7 +2037,6 @@ input, select, textarea {
 
 	#nav {
 		background-color: #282828;
-		overflow: visible;
 		text-align: center;
 		position: fixed;
 		left: 0;
@@ -2389,8 +2388,8 @@ input, select, textarea {
 		/* Nav */
 
 			#nav {
-				height: 44px;
-				line-height: 44px;
+				height: 80px;
+				line-height: 40px;
 			}
 
 				#nav a {
